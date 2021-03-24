@@ -19,7 +19,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.13.0
+  http: 0.12.2
 
   country_code_picker: ^1.2.3
   flutter_svg: ^0.19.3
