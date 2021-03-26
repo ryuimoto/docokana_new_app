@@ -66,12 +66,13 @@ class _TabbarState extends State<Tabbar> {
                       ),
                       Tab(
                         icon: Icon(
-                          Icons.message,
+                          Icons.add,
+                          size: 30,
                         ),
                       ),
                       Tab(
                         icon: Icon(
-                          Icons.notifications,
+                          Icons.message,
                         ),
                       )
                     ]),
@@ -80,8 +81,8 @@ class _TabbarState extends State<Tabbar> {
                 children: [
                   Center(child: Profile()),
                   Center(child: CardPictures()),
-                  Center(child: Notifications()),
                   Center(child: HomeScreen()),
+                  Center(child: Notifications()),
                 ],
                 physics: NeverScrollableScrollPhysics(),
               )),
