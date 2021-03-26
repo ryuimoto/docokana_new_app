@@ -66,12 +66,12 @@ class _TabbarState extends State<Tabbar> {
                       ),
                       Tab(
                         icon: Icon(
-                          Icons.notifications,
+                          Icons.message,
                         ),
                       ),
                       Tab(
                         icon: Icon(
-                          Icons.message,
+                          Icons.notifications,
                         ),
                       )
                     ]),

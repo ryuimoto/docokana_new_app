@@ -9,6 +9,7 @@
         android:name="io.flutter.app.FlutterApplication"
         android:label="docokana"
         android:icon="@mipmap/launcher_icon">
+        android:usesCleartextTraffic="true" <!-- This Line -->
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

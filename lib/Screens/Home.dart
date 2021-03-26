@@ -1,13 +1,12 @@
 import 'dart:math';
 import 'dart:convert';
-import 'package:docokana_new_app/models/real/data_model.dart';
-import 'package:docokana_new_app/models/real/user_model.dart';
+import 'package:docokana_new_app/models/data_model.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_swiper/flutter_swiper.dart';
 import 'package:docokana_new_app/Screens/Information.dart';
-import 'package:docokana_new_app/models/data_model.dart';
+// import 'package:docokana_new_app/models/data_model.dart';
 import 'package:docokana_new_app/util/color.dart';
 import 'package:swipe_stack/swipe_stack.dart';
 import 'package:docokana_new_app/network_utils/api.dart';
@@ -18,14 +17,17 @@ bool onEnd = false;
 class CardPictures extends StatefulWidget {
   @override
   _CardPicturesState createState() => _CardPicturesState();
+
 }
 
 class _CardPicturesState extends State<CardPictures>
     with AutomaticKeepAliveClientMixin<CardPictures> {
+
   @override
   bool get wantKeepAlive => true;
 
   Widget build(BuildContext context) {
+
     super.build(context);
     return Scaffold(
       backgroundColor: primaryColor,
@@ -237,9 +239,9 @@ class _CardPicturesState extends State<CardPictures>
                           users.removeLast();
                         },
                         onSwipe: (int index, SwiperPosition position) {
-                          if (index + 1 < users.length) {
-                            users.removeAt(index + 1);
-                          }
+                          // if (index + 1 < users.length) {
+                          //   users.removeAt(index + 1);
+                          // }
 
                           debugPrint("onSwipe $index $position");
                         },
@@ -266,9 +268,9 @@ class _CardPicturesState extends State<CardPictures>
                                 size: 20,
                               ),
                               onPressed: () {
-                                if (users.length > 0) {
-                                  swipeKey.currentState.rewind();
-                                }
+                                // if (users.length > 0) {
+                                //   swipeKey.currentState.rewind();
+                                // }
                               })
                           : FloatingActionButton(
                               heroTag: UniqueKey(),
@@ -289,9 +291,9 @@ class _CardPicturesState extends State<CardPictures>
                             size: 30,
                           ),
                           onPressed: () {
-                            if (users.length > 0) {
-                              swipeKey.currentState.swipeLeft();
-                            }
+                            // if (users.length > 0) {
+                            //   swipeKey.currentState.swipeLeft();
+                            // }
                           }),
                       FloatingActionButton(
                           heroTag: UniqueKey(),
@@ -302,9 +304,9 @@ class _CardPicturesState extends State<CardPictures>
                             size: 30,
                           ),
                           onPressed: () {
-                            if (users.length > 0) {
-                              swipeKey.currentState.swipeRight();
-                            }
+                            // if (users.length > 0) {
+                            //   swipeKey.currentState.swipeRight();
+                            // }
                           }),
                     ],
                   ),
