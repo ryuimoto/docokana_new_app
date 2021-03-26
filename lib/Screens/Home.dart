@@ -282,24 +282,12 @@ class _CardPicturesState extends State<CardPictures>
                               ),
                               onPressed: () {},
                             ),
+
                       FloatingActionButton(
                           heroTag: UniqueKey(),
                           backgroundColor: Colors.white,
                           child: Icon(
-                            Icons.clear,
-                            color: Colors.red,
-                            size: 30,
-                          ),
-                          onPressed: () {
-                            // if (users.length > 0) {
-                            //   swipeKey.currentState.swipeLeft();
-                            // }
-                          }),
-                      FloatingActionButton(
-                          heroTag: UniqueKey(),
-                          backgroundColor: Colors.white,
-                          child: Icon(
-                            Icons.favorite,
+                            Icons.add,
                             color: Colors.lightBlueAccent,
                             size: 30,
                           ),
