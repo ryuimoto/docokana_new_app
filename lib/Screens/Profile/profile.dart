@@ -15,6 +15,9 @@ import 'package:docokana_new_app/Screens/auth/login.dart';
 class Profile extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+    var user =  Network().getData('/auth_user');
+    print(user);
+
     return Scaffold(
       backgroundColor: primaryColor,
       body: Container(

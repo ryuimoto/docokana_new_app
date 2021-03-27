@@ -1,76 +1,64 @@
 // To parse this JSON data, do
 //
-//     final dataModel = dataModelFromJson(jsonString);
+//     final articlesModel = articlesModelFromJson(jsonString);
 
 import 'dart:convert';
 
-DataModel dataModelFromJson(String str) => DataModel.fromJson(json.decode(str));
+ArticlesModel articlesModelFromJson(String str) => ArticlesModel.fromJson(json.decode(str));
 
-String dataModelToJson(DataModel data) => json.encode(data.toJson());
+String articlesModelToJson(ArticlesModel data) => json.encode(data.toJson());
 
-class DataModel {
-  DataModel({
+class ArticlesModel {
+  ArticlesModel({
     this.success,
-    this.users,
+    this.articles,
   });
 
   bool success;
-  List<User> users;
+  List<Article> articles;
 
-  factory DataModel.fromJson(Map<String, dynamic> json) => DataModel(
+  factory ArticlesModel.fromJson(Map<String, dynamic> json) => ArticlesModel(
     success: json["success"],
-    users: List<User>.from(json["users"].map((x) => User.fromJson(x))),
+    articles: List<Article>.from(json["articles"].map((x) => Article.fromJson(x))),
   );
 
   Map<String, dynamic> toJson() => {
     "success": success,
-    "users": List<dynamic>.from(users.map((x) => x.toJson())),
+    "articles": List<dynamic>.from(articles.map((x) => x.toJson())),
   };
 }
 
-class User {
-  User({
+class Article {
+  Article({
     this.id,
-    this.fname,
-    this.lname,
-    this.phone,
-    this.email,
+    this.name,
     this.imagePath,
-    this.emailVerifiedAt,
+    this.comment,
     this.createdAt,
     this.updatedAt,
   });
 
   int id;
-  String fname;
-  String lname;
-  String phone;
-  String email;
+  String name;
   String imagePath;
-  dynamic emailVerifiedAt;
+  String comment;
   DateTime createdAt;
   DateTime updatedAt;
 
-  factory User.fromJson(Map<String, dynamic> json) => User(
+  factory Article.fromJson(Map<String, dynamic> json) => Article(
     id: json["id"],
-    fname: json["fname"],
-    lname: json["lname"],
-    phone: json["phone"],
-    email: json["email"],
+    name: json["name"],
     imagePath: json["image_path"],
-    emailVerifiedAt: json["email_verified_at"],
+    comment: json["comment"],
     createdAt: DateTime.parse(json["created_at"]),
     updatedAt: DateTime.parse(json["updated_at"]),
   );
 
   Map<String, dynamic> toJson() => {
     "id": id,
-    "fname": fname,
-    "lname": lname,
-    "phone": phone,
-    "email": email,
+    "name": name,
     "image_path": imagePath,
-    "email_verified_at": emailVerifiedAt,
+    "comment": comment,
     "created_at": createdAt.toIso8601String(),
     "updated_at": updatedAt.toIso8601String(),
   };
