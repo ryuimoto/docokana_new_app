@@ -10,6 +10,7 @@ import 'package:docokana_new_app/Screens/Information.dart';
 import 'package:docokana_new_app/util/color.dart';
 import 'package:swipe_stack/swipe_stack.dart';
 import 'package:docokana_new_app/network_utils/api.dart';
+import 'package:docokana_new_app/models/real/articles_model.dart';
 
 GlobalKey<SwipeStackState> swipeKey = GlobalKey<SwipeStackState>();
 bool onEnd = false;
@@ -17,7 +18,6 @@ bool onEnd = false;
 class CardPictures extends StatefulWidget {
   @override
   _CardPicturesState createState() => _CardPicturesState();
-
 }
 
 class _CardPicturesState extends State<CardPictures>
@@ -25,9 +25,7 @@ class _CardPicturesState extends State<CardPictures>
 
   @override
   bool get wantKeepAlive => true;
-
   Widget build(BuildContext context) {
-
     super.build(context);
     return Scaffold(
       backgroundColor: primaryColor,
@@ -75,6 +73,8 @@ class _CardPicturesState extends State<CardPictures>
                     : SwipeStack(
                         key: swipeKey,
                         children: users.reversed.map((index) {
+                          var test = Network().getArticles('/articles');
+
                           // User user;
                           return SwiperItem(builder:
                               (SwiperPosition position, double progress) {

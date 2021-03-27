@@ -1,4 +1,6 @@
 import 'dart:convert';
+import 'package:docokana_new_app/models/real/articles_model.dart';
+import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -24,6 +26,32 @@ class Network {
 
     await _getToken();
     return await http.get(fullUrl, headers: _setHeaders());
+  }
+
+  Future<ArticlesModel> getArticles(apiUrl) async{
+    var client = http.Client();
+    var articlesModel;
+
+    try{
+      var fullUrl = _url + apiUrl;
+      var response = await client.get(fullUrl);
+
+      if(response.statusCode == 200){
+        var jsonString = response.body;
+
+        var jsonMap = json.decode(jsonString);
+
+        print(jsonMap['articles']);
+
+        articlesModel = ArticlesModel.fromJson(jsonMap);
+
+      }
+    } catch (Exception){
+      return articlesModel;
+    }
+
+    return articlesModel;
+
   }
 
   _setHeaders() => {
