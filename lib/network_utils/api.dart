@@ -38,10 +38,8 @@ class Network {
 
       if(response.statusCode == 200){
         var jsonString = response.body;
-
         var jsonMap = json.decode(jsonString);
 
-        print(jsonMap['articles']);
 
         articlesModel = ArticlesModel.fromJson(jsonMap);
 
@@ -49,9 +47,7 @@ class Network {
     } catch (Exception){
       return articlesModel;
     }
-
     return articlesModel;
-
   }
 
   _setHeaders() => {

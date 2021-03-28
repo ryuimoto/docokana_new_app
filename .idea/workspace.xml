@@ -31,14 +31,25 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/App.framework/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/App.framework/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/App" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/App" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/shared_preferences.framework/shared_preferences" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/shared_preferences.framework/shared_preferences" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Runner" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Runner" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/_CodeSignature/CodeResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/shared_preferences/shared_preferences.framework/shared_preferences" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/shared_preferences/shared_preferences.framework/shared_preferences" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/App" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/App" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/shared_preferences.framework/shared_preferences" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/shared_preferences.framework/shared_preferences" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Runner" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Runner" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/_CodeSignature/CodeResources" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/Screens/Home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/Home.dart" afterDir="false" />
@@ -118,7 +129,7 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="748" y="285" key="FileChooserDialogImpl/1920.124.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1615099288225" />
-    <state width="814" height="291" key="GridCell.Tab.0.bottom" timestamp="1616826958582">
+    <state width="814" height="266" key="GridCell.Tab.0.bottom" timestamp="1616922348646">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="823" height="296" key="GridCell.Tab.0.bottom/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1615527933641" />
@@ -126,13 +137,13 @@
     <state width="1589" height="295" key="GridCell.Tab.0.bottom/-1440.320.1440.900/1920.142.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1616682348677" />
     <state width="1878" height="261" key="GridCell.Tab.0.bottom/-1440.516.1440.900/1920.422.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1615033608995" />
     <state width="1878" height="261" key="GridCell.Tab.0.bottom/-1440.516.1440.900/1920.561.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1615033262902" />
-    <state width="814" height="291" key="GridCell.Tab.0.bottom/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1616826958582" />
+    <state width="814" height="266" key="GridCell.Tab.0.bottom/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1616922348646" />
     <state width="1630" height="296" key="GridCell.Tab.0.bottom/1920.102.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1616742254887" />
     <state width="939" height="260" key="GridCell.Tab.0.bottom/1920.124.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1615174945982" />
     <state width="1878" height="261" key="GridCell.Tab.0.bottom/1920.261.1920.1080/-1440.300.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1615022493864" />
     <state width="820" height="260" key="GridCell.Tab.0.bottom/1920.47.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1615704697349" />
     <state width="820" height="260" key="GridCell.Tab.0.bottom/1920.98.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1616148207595" />
-    <state width="814" height="291" key="GridCell.Tab.0.center" timestamp="1616826958582">
+    <state width="814" height="266" key="GridCell.Tab.0.center" timestamp="1616922348645">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="823" height="296" key="GridCell.Tab.0.center/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1615527933640" />
@@ -140,13 +151,13 @@
     <state width="1589" height="295" key="GridCell.Tab.0.center/-1440.320.1440.900/1920.142.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1616682348676" />
     <state width="1878" height="261" key="GridCell.Tab.0.center/-1440.516.1440.900/1920.422.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1615033608994" />
     <state width="1878" height="261" key="GridCell.Tab.0.center/-1440.516.1440.900/1920.561.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1615033262901" />
-    <state width="814" height="291" key="GridCell.Tab.0.center/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1616826958582" />
+    <state width="814" height="266" key="GridCell.Tab.0.center/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1616922348645" />
     <state width="1630" height="296" key="GridCell.Tab.0.center/1920.102.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1616742254887" />
     <state width="939" height="260" key="GridCell.Tab.0.center/1920.124.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1615174945981" />
     <state width="1878" height="261" key="GridCell.Tab.0.center/1920.261.1920.1080/-1440.300.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1615022493863" />
     <state width="820" height="260" key="GridCell.Tab.0.center/1920.47.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1615704697348" />
     <state width="820" height="260" key="GridCell.Tab.0.center/1920.98.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1616148207594" />
-    <state width="814" height="291" key="GridCell.Tab.0.left" timestamp="1616826958581">
+    <state width="814" height="266" key="GridCell.Tab.0.left" timestamp="1616922348645">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="823" height="296" key="GridCell.Tab.0.left/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1615527933639" />
@@ -154,13 +165,13 @@
     <state width="1589" height="295" key="GridCell.Tab.0.left/-1440.320.1440.900/1920.142.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1616682348676" />
     <state width="1878" height="261" key="GridCell.Tab.0.left/-1440.516.1440.900/1920.422.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1615033608994" />
     <state width="1878" height="261" key="GridCell.Tab.0.left/-1440.516.1440.900/1920.561.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1615033262901" />
-    <state width="814" height="291" key="GridCell.Tab.0.left/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1616826958581" />
+    <state width="814" height="266" key="GridCell.Tab.0.left/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1616922348645" />
     <state width="1630" height="296" key="GridCell.Tab.0.left/1920.102.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1616742254887" />
     <state width="939" height="260" key="GridCell.Tab.0.left/1920.124.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1615174945980" />
     <state width="1878" height="261" key="GridCell.Tab.0.left/1920.261.1920.1080/-1440.300.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1615022493863" />
     <state width="820" height="260" key="GridCell.Tab.0.left/1920.47.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1615704697348" />
     <state width="820" height="260" key="GridCell.Tab.0.left/1920.98.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1616148207594" />
-    <state width="814" height="291" key="GridCell.Tab.0.right" timestamp="1616826958582">
+    <state width="814" height="266" key="GridCell.Tab.0.right" timestamp="1616922348645">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="823" height="296" key="GridCell.Tab.0.right/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1615527933640" />
@@ -168,7 +179,7 @@
     <state width="1589" height="295" key="GridCell.Tab.0.right/-1440.320.1440.900/1920.142.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1616682348676" />
     <state width="1878" height="261" key="GridCell.Tab.0.right/-1440.516.1440.900/1920.422.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1615033608995" />
     <state width="1878" height="261" key="GridCell.Tab.0.right/-1440.516.1440.900/1920.561.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1615033262901" />
-    <state width="814" height="291" key="GridCell.Tab.0.right/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1616826958582" />
+    <state width="814" height="266" key="GridCell.Tab.0.right/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1616922348645" />
     <state width="1630" height="296" key="GridCell.Tab.0.right/1920.102.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1616742254887" />
     <state width="939" height="260" key="GridCell.Tab.0.right/1920.124.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1615174945981" />
     <state width="1878" height="261" key="GridCell.Tab.0.right/1920.261.1920.1080/-1440.300.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1615022493863" />
@@ -188,13 +199,13 @@
     </state>
     <state x="625" y="248" key="run.anything.popup/-1440.300.1440.900/1920.261.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1614046036954" />
     <state x="625" y="248" key="run.anything.popup/1920.102.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1616735434428" />
-    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1616823151543">
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1616919785503">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/-1440.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1615525849417" />
     <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/-1440.300.1440.900/1920.261.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1615013806686" />
     <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/-1440.320.1440.900/1920.142.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1616676616770" />
-    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1616823151543" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1616919785503" />
     <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/1920.102.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1616742668409" />
     <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/1920.124.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1615087860961" />
   </component>
@@ -215,6 +226,16 @@
           <url>file://$PROJECT_DIR$/lib/Screens/Splash.dart</url>
           <line>61</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/network_utils/api.dart</url>
+          <line>54</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/network_utils/api.dart</url>
+          <line>30</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
